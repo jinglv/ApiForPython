@@ -1,0 +1,64 @@
+[2018-04-21 00:33:23,903] - logger.py] - INFO: 请求头部：{'host': 'postman-echo.com', 'accept': '*/*', 'accept-encoding': 'gzip, deflate', 'cache-control': 'no-cache', 'cookie': 'sails.sid=s%3AR6K6YABwJq0Ya4Ak9WiSZgVYnzn6sghR.zyy26MhVZG870sNidrxHZNaCSW6dJpbSKUPZYYPWvsI', 'postman-token': 'f92b4389-cabb-4674-a5bb-6a694f1bca4b', 'user-agent': 'PostmanRuntime/7.1.1', 'x-forwarded-port': '443', 'x-forwarded-proto': 'https'}
+[2018-04-21 00:33:23,905] - logger.py] - INFO: *******正在执行用例：-----  1.0  ----**********
+[2018-04-21 00:33:23,906] - logger.py] - INFO: 请求方式：get, 请求url:https://postman-echo.com/get
+[2018-04-21 00:33:25,492] - logger.py] - INFO: 页面返回信息：{"args":{},"headers":{"host":"postman-echo.com","accept":"*/*","accept-encoding":"gzip, deflate","cache-control":"no-cache","cookie":"sails.sid=s%3AR6K6YABwJq0Ya4Ak9WiSZgVYnzn6sghR.zyy26MhVZG870sNidrxHZNaCSW6dJpbSKUPZYYPWvsI","postman-token":"f92b4389-cabb-4674-a5bb-6a694f1bca4b","user-agent":"PostmanRuntime/7.1.1","x-forwarded-port":"443","x-forwarded-proto":"https"},"url":"https://postman-echo.com/get"}
+[2018-04-21 00:33:25,492] - logger.py] - INFO: 请求头部：{'host': 'postman-echo.com', 'accept': '*/*', 'accept-encoding': 'gzip, deflate', 'cache-control': 'no-cache', 'cookie': 'sails.sid=s%3AR6K6YABwJq0Ya4Ak9WiSZgVYnzn6sghR.zyy26MhVZG870sNidrxHZNaCSW6dJpbSKUPZYYPWvsI', 'postman-token': 'f92b4389-cabb-4674-a5bb-6a694f1bca4b', 'user-agent': 'PostmanRuntime/7.1.1', 'x-forwarded-port': '443', 'x-forwarded-proto': 'https'}
+[2018-04-21 00:33:25,493] - logger.py] - INFO: *******正在执行用例：-----  2.0  ----**********
+[2018-04-21 00:33:25,493] - logger.py] - INFO: 请求方式：get, 请求url:https://postman-echo.com/get
+[2018-04-21 00:33:25,795] - logger.py] - INFO: 页面返回信息：{"args":{},"headers":{"host":"postman-echo.com","accept":"*/*","accept-encoding":"gzip, deflate","cache-control":"no-cache","cookie":"sails.sid=s%3AR6K6YABwJq0Ya4Ak9WiSZgVYnzn6sghR.zyy26MhVZG870sNidrxHZNaCSW6dJpbSKUPZYYPWvsI","postman-token":"f92b4389-cabb-4674-a5bb-6a694f1bca4b","user-agent":"PostmanRuntime/7.1.1","x-forwarded-port":"443","x-forwarded-proto":"https"},"url":"https://postman-echo.com/get"}
+[2018-04-21 00:34:46,530] - logger.py] - INFO: 请求参数: {'test1': '123'}
+[2018-04-21 00:34:46,531] - logger.py] - INFO: 请求头部：{'host': 'postman-echo.com', 'accept': '*/*', 'accept-encoding': 'gzip, deflate', 'cache-control': 'no-cache', 'cookie': 'sails.sid=s%3AR6K6YABwJq0Ya4Ak9WiSZgVYnzn6sghR.zyy26MhVZG870sNidrxHZNaCSW6dJpbSKUPZYYPWvsI', 'postman-token': 'f92b4389-cabb-4674-a5bb-6a694f1bca4b', 'user-agent': 'PostmanRuntime/7.1.1', 'x-forwarded-port': '443', 'x-forwarded-proto': 'https'}
+[2018-04-21 00:34:46,531] - logger.py] - INFO: *******正在执行用例：-----  1.0  ----**********
+[2018-04-21 00:34:46,532] - logger.py] - INFO: 请求方式：get, 请求url:https://postman-echo.com/get
+[2018-04-21 00:34:49,900] - logger.py] - INFO: 页面返回信息：{"args":{"test1":"123"},"headers":{"host":"postman-echo.com","accept":"*/*","accept-encoding":"gzip, deflate","cache-control":"no-cache","cookie":"sails.sid=s%3AR6K6YABwJq0Ya4Ak9WiSZgVYnzn6sghR.zyy26MhVZG870sNidrxHZNaCSW6dJpbSKUPZYYPWvsI","postman-token":"f92b4389-cabb-4674-a5bb-6a694f1bca4b","user-agent":"PostmanRuntime/7.1.1","x-forwarded-port":"443","x-forwarded-proto":"https"},"url":"https://postman-echo.com/get?test1=123"}
+[2018-04-21 00:34:49,901] - logger.py] - INFO: 请求参数: {'test1': '123', 'test2': '321'}
+[2018-04-21 00:34:49,901] - logger.py] - INFO: 请求头部：{'host': 'postman-echo.com', 'accept': '*/*', 'accept-encoding': 'gzip, deflate', 'cache-control': 'no-cache', 'cookie': 'sails.sid=s%3AR6K6YABwJq0Ya4Ak9WiSZgVYnzn6sghR.zyy26MhVZG870sNidrxHZNaCSW6dJpbSKUPZYYPWvsI', 'postman-token': 'f92b4389-cabb-4674-a5bb-6a694f1bca4b', 'user-agent': 'PostmanRuntime/7.1.1', 'x-forwarded-port': '443', 'x-forwarded-proto': 'https'}
+[2018-04-21 00:34:49,902] - logger.py] - INFO: *******正在执行用例：-----  2.0  ----**********
+[2018-04-21 00:34:49,902] - logger.py] - INFO: 请求方式：get, 请求url:https://postman-echo.com/get
+[2018-04-21 00:34:50,278] - logger.py] - INFO: 页面返回信息：{"args":{"test1":"123","test2":"321"},"headers":{"host":"postman-echo.com","accept":"*/*","accept-encoding":"gzip, deflate","cache-control":"no-cache","cookie":"sails.sid=s%3AR6K6YABwJq0Ya4Ak9WiSZgVYnzn6sghR.zyy26MhVZG870sNidrxHZNaCSW6dJpbSKUPZYYPWvsI","postman-token":"f92b4389-cabb-4674-a5bb-6a694f1bca4b","user-agent":"PostmanRuntime/7.1.1","x-forwarded-port":"443","x-forwarded-proto":"https"},"url":"https://postman-echo.com/get?test1=123&test2=321"}
+[2018-04-21 12:54:11,179] - logger.py] - INFO: 请求参数: {'test1': '123'}
+[2018-04-21 12:54:11,180] - logger.py] - INFO: 请求头部：{'host': 'postman-echo.com', 'accept': '*/*', 'accept-encoding': 'gzip, deflate', 'cache-control': 'no-cache', 'cookie': 'sails.sid=s%3AR6K6YABwJq0Ya4Ak9WiSZgVYnzn6sghR.zyy26MhVZG870sNidrxHZNaCSW6dJpbSKUPZYYPWvsI', 'postman-token': 'f92b4389-cabb-4674-a5bb-6a694f1bca4b', 'user-agent': 'PostmanRuntime/7.1.1', 'x-forwarded-port': '443', 'x-forwarded-proto': 'https'}
+[2018-04-21 12:54:11,181] - logger.py] - INFO: *******正在执行用例：-----  1.0  ----**********
+[2018-04-21 12:54:11,182] - logger.py] - INFO: 请求方式：get, 请求url:https://postman-echo.com/get
+[2018-04-21 12:54:13,135] - logger.py] - INFO: 页面返回信息：{"args":{"test1":"123"},"headers":{"host":"postman-echo.com","accept":"*/*","accept-encoding":"gzip, deflate","cache-control":"no-cache","cookie":"sails.sid=s%3AR6K6YABwJq0Ya4Ak9WiSZgVYnzn6sghR.zyy26MhVZG870sNidrxHZNaCSW6dJpbSKUPZYYPWvsI","postman-token":"f92b4389-cabb-4674-a5bb-6a694f1bca4b","user-agent":"PostmanRuntime/7.1.1","x-forwarded-port":"443","x-forwarded-proto":"https"},"url":"https://postman-echo.com/get?test1=123"}
+[2018-04-21 12:54:13,136] - logger.py] - INFO: 请求参数: {'test1': '123', 'test2': '321'}
+[2018-04-21 12:54:13,136] - logger.py] - INFO: 请求头部：{'host': 'postman-echo.com', 'accept': '*/*', 'accept-encoding': 'gzip, deflate', 'cache-control': 'no-cache', 'cookie': 'sails.sid=s%3AR6K6YABwJq0Ya4Ak9WiSZgVYnzn6sghR.zyy26MhVZG870sNidrxHZNaCSW6dJpbSKUPZYYPWvsI', 'postman-token': 'f92b4389-cabb-4674-a5bb-6a694f1bca4b', 'user-agent': 'PostmanRuntime/7.1.1', 'x-forwarded-port': '443', 'x-forwarded-proto': 'https'}
+[2018-04-21 12:54:13,136] - logger.py] - INFO: *******正在执行用例：-----  2.0  ----**********
+[2018-04-21 12:54:13,136] - logger.py] - INFO: 请求方式：get, 请求url:https://postman-echo.com/get
+[2018-04-21 12:54:13,545] - logger.py] - INFO: 页面返回信息：{"args":{"test1":"123","test2":"321"},"headers":{"host":"postman-echo.com","accept":"*/*","accept-encoding":"gzip, deflate","cache-control":"no-cache","cookie":"sails.sid=s%3AR6K6YABwJq0Ya4Ak9WiSZgVYnzn6sghR.zyy26MhVZG870sNidrxHZNaCSW6dJpbSKUPZYYPWvsI","postman-token":"f92b4389-cabb-4674-a5bb-6a694f1bca4b","user-agent":"PostmanRuntime/7.1.1","x-forwarded-port":"443","x-forwarded-proto":"https"},"url":"https://postman-echo.com/get?test1=123&test2=321"}
+[2018-04-21 12:54:13,546] - logger.py] - INFO: 请求头部：{'Content-Type': 'text/plain'}
+[2018-04-21 12:54:13,546] - logger.py] - INFO: *******正在执行用例：-----  3.0  ----**********
+[2018-04-21 12:54:13,546] - logger.py] - INFO: 请求方式：post, 请求url:https://postman-echo.com/post
+[2018-04-21 12:54:13,547] - logger.py] - INFO: post请求body类型为： ,body内容为：{}
+[2018-04-21 12:54:13,954] - logger.py] - INFO: 页面返回信息：{"args":{},"data":"","files":{},"form":{},"headers":{"host":"postman-echo.com","content-length":"0","accept":"*/*","accept-encoding":"gzip, deflate","content-type":"text/plain","cookie":"sails.sid=s%3AHMOovWDzA9JLDD1ZUYOFvJAnQUxnoNAL.lmlrLm4syXApPLd%2Flm%2BTNr4KFhsUXXnbJRv8px%2BXSY0","user-agent":"python-requests/2.18.4","x-forwarded-port":"443","x-forwarded-proto":"https"},"json":null,"url":"https://postman-echo.com/post"}
+[2018-04-21 12:54:13,954] - logger.py] - INFO: 请求参数: {'strange': 'boom'}
+[2018-04-21 12:54:13,955] - logger.py] - INFO: 请求头部：{'Content-Type': 'application/x-www-form-urlencoded'}
+[2018-04-21 12:54:13,956] - logger.py] - INFO: *******正在执行用例：-----  4.0  ----**********
+[2018-04-21 12:54:13,956] - logger.py] - INFO: 请求方式：post, 请求url:https://postman-echo.com/post
+[2018-04-21 12:54:13,957] - logger.py] - INFO: post请求body类型为： ,body内容为：{}
+[2018-04-21 12:54:14,252] - logger.py] - INFO: 页面返回信息：{"args":{"strange":"boom"},"data":"","files":{},"form":{},"headers":{"host":"postman-echo.com","content-length":"0","accept":"*/*","accept-encoding":"gzip, deflate","content-type":"application/x-www-form-urlencoded","cookie":"sails.sid=s%3A4BlwhLuZK0-qL7xhdiWSHRsgRIX4XKA4.dS5LfspLKlHH11UHEPd3xyLo6tL%2B7NKAyWJpJkz1yYE","user-agent":"python-requests/2.18.4","x-forwarded-port":"443","x-forwarded-proto":"https"},"json":null,"url":"https://postman-echo.com/post?strange=boom"}
+[2018-04-21 12:56:19,473] - logger.py] - INFO: 请求参数: {'test1': '123'}
+[2018-04-21 12:56:19,476] - logger.py] - INFO: 请求头部：{'host': 'postman-echo.com', 'accept': '*/*', 'accept-encoding': 'gzip, deflate', 'cache-control': 'no-cache', 'cookie': 'sails.sid=s%3AR6K6YABwJq0Ya4Ak9WiSZgVYnzn6sghR.zyy26MhVZG870sNidrxHZNaCSW6dJpbSKUPZYYPWvsI', 'postman-token': 'f92b4389-cabb-4674-a5bb-6a694f1bca4b', 'user-agent': 'PostmanRuntime/7.1.1', 'x-forwarded-port': '443', 'x-forwarded-proto': 'https'}
+[2018-04-21 12:56:19,477] - logger.py] - INFO: *******正在执行用例：-----  1.0  ----**********
+[2018-04-21 12:56:19,477] - logger.py] - INFO: 请求方式：get, 请求url:https://postman-echo.com/get
+[2018-04-21 12:56:35,056] - logger.py] - INFO: 页面返回信息：{"args":{"test1":"123"},"headers":{"host":"postman-echo.com","accept":"*/*","accept-encoding":"gzip, deflate","cache-control":"no-cache","cookie":"sails.sid=s%3AR6K6YABwJq0Ya4Ak9WiSZgVYnzn6sghR.zyy26MhVZG870sNidrxHZNaCSW6dJpbSKUPZYYPWvsI","postman-token":"f92b4389-cabb-4674-a5bb-6a694f1bca4b","user-agent":"PostmanRuntime/7.1.1","x-forwarded-port":"443","x-forwarded-proto":"https"},"url":"https://postman-echo.com/get?test1=123"}
+[2018-04-21 12:56:35,057] - logger.py] - INFO: 接口执行状态码: 200
+[2018-04-21 12:56:35,058] - logger.py] - INFO: 请求参数: {'test1': '123', 'test2': '321'}
+[2018-04-21 12:56:35,059] - logger.py] - INFO: 请求头部：{'host': 'postman-echo.com', 'accept': '*/*', 'accept-encoding': 'gzip, deflate', 'cache-control': 'no-cache', 'cookie': 'sails.sid=s%3AR6K6YABwJq0Ya4Ak9WiSZgVYnzn6sghR.zyy26MhVZG870sNidrxHZNaCSW6dJpbSKUPZYYPWvsI', 'postman-token': 'f92b4389-cabb-4674-a5bb-6a694f1bca4b', 'user-agent': 'PostmanRuntime/7.1.1', 'x-forwarded-port': '443', 'x-forwarded-proto': 'https'}
+[2018-04-21 12:56:35,059] - logger.py] - INFO: *******正在执行用例：-----  2.0  ----**********
+[2018-04-21 12:56:35,059] - logger.py] - INFO: 请求方式：get, 请求url:https://postman-echo.com/get
+[2018-04-21 12:56:35,463] - logger.py] - INFO: 页面返回信息：{"args":{"test1":"123","test2":"321"},"headers":{"host":"postman-echo.com","accept":"*/*","accept-encoding":"gzip, deflate","cache-control":"no-cache","cookie":"sails.sid=s%3AR6K6YABwJq0Ya4Ak9WiSZgVYnzn6sghR.zyy26MhVZG870sNidrxHZNaCSW6dJpbSKUPZYYPWvsI","postman-token":"f92b4389-cabb-4674-a5bb-6a694f1bca4b","user-agent":"PostmanRuntime/7.1.1","x-forwarded-port":"443","x-forwarded-proto":"https"},"url":"https://postman-echo.com/get?test1=123&test2=321"}
+[2018-04-21 12:56:35,463] - logger.py] - INFO: 接口执行状态码: 200
+[2018-04-21 12:56:35,464] - logger.py] - INFO: 请求头部：{'Content-Type': 'text/plain'}
+[2018-04-21 12:56:35,464] - logger.py] - INFO: *******正在执行用例：-----  3.0  ----**********
+[2018-04-21 12:56:35,464] - logger.py] - INFO: 请求方式：post, 请求url:https://postman-echo.com/post
+[2018-04-21 12:56:35,465] - logger.py] - INFO: post请求body类型为： ,body内容为：{}
+[2018-04-21 12:56:35,771] - logger.py] - INFO: 页面返回信息：{"args":{},"data":"","files":{},"form":{},"headers":{"host":"postman-echo.com","content-length":"0","accept":"*/*","accept-encoding":"gzip, deflate","content-type":"text/plain","user-agent":"python-requests/2.18.4","x-forwarded-port":"443","x-forwarded-proto":"https"},"json":null,"url":"https://postman-echo.com/post"}
+[2018-04-21 12:56:35,771] - logger.py] - INFO: 接口执行状态码: 200
+[2018-04-21 12:56:35,772] - logger.py] - INFO: 请求参数: {'strange': 'boom'}
+[2018-04-21 12:56:35,772] - logger.py] - INFO: 请求头部：{'Content-Type': 'application/x-www-form-urlencoded'}
+[2018-04-21 12:56:35,773] - logger.py] - INFO: *******正在执行用例：-----  4.0  ----**********
+[2018-04-21 12:56:35,773] - logger.py] - INFO: 请求方式：post, 请求url:https://postman-echo.com/post
+[2018-04-21 12:56:35,773] - logger.py] - INFO: post请求body类型为： ,body内容为：{}
+[2018-04-21 12:56:36,181] - logger.py] - INFO: 页面返回信息：{"args":{"strange":"boom"},"data":"","files":{},"form":{},"headers":{"host":"postman-echo.com","content-length":"0","accept":"*/*","accept-encoding":"gzip, deflate","content-type":"application/x-www-form-urlencoded","cookie":"sails.sid=s%3AmO3GPj_3XoUnIdOvPw2v3sNRBOtFXgtQ.S%2FD2i4%2FrvtHSes5XwCCgc491ymYPmndBMwZImMnQrb8","user-agent":"python-requests/2.18.4","x-forwarded-port":"443","x-forwarded-proto":"https"},"json":null,"url":"https://postman-echo.com/post?strange=boom"}
+[2018-04-21 12:56:36,182] - logger.py] - INFO: 接口执行状态码: 200
