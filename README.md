@@ -106,6 +106,7 @@ HTTP响应报文主要由状态行、消息报头、空一行、响应正文4部
 [BeautifulReport Python Github地址](https://github.com/TesterlifeRaymond/BeautifulReport/)
 
 ![测试报告](http://m.qpic.cn/psb?/V12A7VgS03zLND/jzc2tvqeK*7qICu0AeT0a0vnER3sjfaUOAq49snW5s4!/b/dFMBAAAAAAAA&bo=Swg4BAAAAAADJ30!&rf=viewer_4 "测试报告")
+
 ![测试报告](http://m.qpic.cn/psb?/V12A7VgS03zLND/wIlhvhvNYvQEp2cbFEXV**xZkPFIvkErOzud5sPJw1w!/b/dFQBAAAAAAAA&bo=TAg4BAAAAAADRxo!&rf=viewer_4 "测试报告")
 
 
