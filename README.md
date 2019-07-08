@@ -18,17 +18,29 @@
 
 ## 项目结构
 ApiForPython
+
     |-- config 配置文件
+    
     |-- excel_file 存放excel文件
+    
     |-- report 存放报告文件
+    
     |---- logs 存放日志文件
+    
     |-- test_case 存放测试用例
+    
     |-- utils 存放封装代码
+    
     |---- checkPointUtils.py 通过jsonpath提取校验的值
+    
     |---- excelUtils.py 读写excel文件
+    
     |---- logger.py 日志输出
+    
     |---- read_ini.py 读取配置文件
+    
     |---- requestsUtils.py 封装请求
+    
     |-- run_main.py 执行文件
     
 ## http协议简介
@@ -38,6 +50,8 @@ ApiForPython
 - 3.http（超文本传输协议）是一个基于请求与响应模式的、无状态的、应用层的协议
 ### 请求报文
 HTTP请求报文主要由请求行、请求头部、空一行、请求正文4部分组成
+![请求报文](http://m.qpic.cn/psb?/V12A7VgS03zLND/xzi9XB0b9p248xC3Lo3i*jGy1btUz*qZ4.SSjqDRbCg!/b/dLgAAAAAAAAA&bo=JASGAQAAAAADB4U!&rf=viewer_4 "请求报文")
+
 
 #### 请求行
 请求行有三个主要参数：请求方法、url、协议版本
@@ -78,6 +92,8 @@ https://host:port/path?xxx=aaa&ooo=bbb
 
 ### 响应报文
 HTTP响应报文主要由状态行、消息报头、空一行、响应正文4部分组成
+![响应报文](http://m.qpic.cn/psb?/V12A7VgS03zLND/*Sk.YWiZZ6Vw.fzoJ1E2AfLLKPRSUoIM6pa5X2mj7mg!/b/dD4BAAAAAAAA&bo=ygNgAQAAAAADF5o!&rf=viewer_4 "响应报文")
+
 
 ### 完整的http内容
 一个完整的http协议其实就两块内容，一个是发的请求，一个服务端给的响应
@@ -85,4 +101,12 @@ HTTP响应报文主要由状态行、消息报头、空一行、响应正文4部
 
 ## requests
 [官网地址](http://cn.python-requests.org/zh_CN/latest/)
+
+## 测试报告
+[BeautifulReport Python Github地址](https://github.com/TesterlifeRaymond/BeautifulReport/)
+
+![测试报告](http://m.qpic.cn/psb?/V12A7VgS03zLND/jzc2tvqeK*7qICu0AeT0a0vnER3sjfaUOAq49snW5s4!/b/dFMBAAAAAAAA&bo=Swg4BAAAAAADJ30!&rf=viewer_4 "测试报告")
+![测试报告](http://m.qpic.cn/psb?/V12A7VgS03zLND/wIlhvhvNYvQEp2cbFEXV**xZkPFIvkErOzud5sPJw1w!/b/dFQBAAAAAAAA&bo=TAg4BAAAAAADRxo!&rf=viewer_4 "测试报告")
+
+
 
