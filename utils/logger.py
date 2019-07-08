@@ -1,7 +1,6 @@
 import logging, time
 import os
 
-
 # log_path是存放日志的路径
 cur_path = os.path.dirname(os.path.realpath(__file__))
 log_path = os.path.join(os.path.dirname(cur_path), 'report/logs')
